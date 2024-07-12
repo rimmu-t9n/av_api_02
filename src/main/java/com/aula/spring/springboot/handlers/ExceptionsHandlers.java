@@ -1,4 +1,4 @@
-package com.aula.spring.handlers;
+package com.aula.spring.springboot.handlers;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ControllerAdvice;

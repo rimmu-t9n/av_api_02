@@ -1,4 +1,4 @@
-package com.aula.spring.exceptions;
+package com.aula.spring.springboot.exceptions;
 
 public class NaoEncontradoException extends RuntimeException{
 

@@ -5,8 +5,8 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.aula.spring.exceptions.NaoEncontradoException;
 import com.aula.spring.springboot.entities.Usuario;
+import com.aula.spring.springboot.exceptions.NaoEncontradoException;
 import com.aula.spring.springboot.repositories.UsuarioRepository;
 
 @Service
